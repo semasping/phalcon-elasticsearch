@@ -1,5 +1,5 @@
 {
-    "name": "ovr/phalcon-elasticsearch",
+    "name": "semasping/phalcon-elasticsearch",
     "license": "MIT",
     "authors": [
         {
@@ -9,10 +9,14 @@
         {
             "name": "Patsura Dmitry",
             "email": "talk@dmtry.me"
+        },
+        {
+            "name": "Semen Pinigin",
+            "email": "semasping@gmail.com"
         }
     ],
     "require": {
-        "php": "~5.4"
+        "php": ">5.4"
     },
     "autoload": {
         "psr-4": {
